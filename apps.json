@@ -1,7 +1,7 @@
 {
   "name": "Stefans Apps",
   "identifier": "com.stefan.altstore",
-  "sourceURL": "https://raw.githubusercontent.com/DEIN-USER/altstore-source/main/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/apps.json",
   "apps": [
     {
       "name": "Buddy Board",
@@ -9,7 +9,7 @@
       "developerName": "Stefan",
       "subtitle": "Pokémon GO Buddy-Tracker",
       "localizedDescription": "Tracker für deine Buddy-Pokémon: 4 Plätze, Checkliste (Foto, Füttern, Spielen, Kampf), 30-Minuten-Timer mit Push-Benachrichtigung und Excited-Reset um 0:00 Uhr.",
-      "iconURL": "https://raw.githubusercontent.com/DEIN-USER/altstore-source/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/icon.png",
       "tintColor": "FFCD75",
       "screenshotURLs": [],
       "versions": [
@@ -17,8 +17,8 @@
           "version": "1.0",
           "date": "2026-10-30",
           "localizedDescription": "Erste Version.",
-          "downloadURL": "https://github.com/DEIN-USER/altstore-source/releases/download/v1.0/BuddyBoard.ipa",
-          "size": 1234567,
+          "downloadURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/BuddyBoard.ipa",
+          "size": 211217,
           "minOSVersion": "16.0"
         }
       ]
