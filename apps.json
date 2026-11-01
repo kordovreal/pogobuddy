@@ -8,18 +8,18 @@
       "bundleIdentifier": "com.stefan.pogobuddy",
       "developerName": "Stefan",
       "subtitle": "Pokémon GO Buddy-Tracker",
-      "localizedDescription": "Tracker für deine Buddy-Pokémon: 4 Plätze, Checkliste (Foto, Füttern, Spielen, Kampf), 30-Minuten-Timer mit Push-Benachrichtigung und Excited-Reset um 0:00 Uhr.",
+      "localizedDescription": "Tracker für deine Buddy-Pokémon: 4 Plätze, Checkliste (Foto, Füttern, Spielen, Kampf), 30-Minuten-Timer mit Push, Dynamic Island / Action Button und Excited-Reset um 0:00 Uhr.",
       "iconURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/icon.png",
       "tintColor": "FFCD75",
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.0",
-          "date": "2026-10-30",
-          "localizedDescription": "Erste Version.",
+          "version": "1.1",
+          "date": "2026-11-01",
+          "localizedDescription": "Dynamic Island & Action Button: Checkliste und Timer direkt in der Insel. Tipp auf die Benachrichtigung öffnet Pokémon GO.",
           "downloadURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/BuddyBoard.ipa",
-          "size": 211217,
-          "minOSVersion": "16.0"
+          "size": 300855,
+          "minOSVersion": "17.0"
         }
       ]
     }
