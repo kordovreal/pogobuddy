@@ -14,9 +14,9 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.5",
+          "version": "1.4",
           "date": "2026-11-09",
-          "localizedDescription": "Richtige Ranks.",
+          "localizedDescription": "Neues Rang-Tab mit Rang-Tabelle und Zähler, Pop-up mit Buddy- und Rang-Tab, komplett im App-Design.",
           "downloadURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/BuddyBoard.ipa",
           "size": 360061,
           "minOSVersion": "17.4"
