@@ -14,11 +14,11 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.3",
+          "version": "1.4",
           "date": "2026-11-09",
-          "localizedDescription": "Ein Pokémon im Fokus (beliebig viele hinzufügbar), Zähler für Kampf-Siege mit + und −.",
+          "localizedDescription": "Neues Rang-Tab mit Rang-Tabelle und Zähler, Pop-up mit Buddy- und Rang-Tab, komplett im App-Design.",
           "downloadURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/BuddyBoard.ipa",
-          "size": 284609,
+          "size": 360058,
           "minOSVersion": "17.4"
         }
       ]
