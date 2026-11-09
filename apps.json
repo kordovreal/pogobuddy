@@ -14,11 +14,11 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.2",
-          "date": "2026-11-01",
-          "localizedDescription": "Action Button zeigt Checkliste & Timer als Pop-up (iOS 26+), ohne die App zu öffnen. Tipp auf die Benachrichtigung öffnet Pokémon GO.",
+          "version": "1.3",
+          "date": "2026-11-09",
+          "localizedDescription": "Ein Pokémon im Fokus (beliebig viele hinzufügbar), Zähler für Kampf-Siege mit + und −.",
           "downloadURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/BuddyBoard.ipa",
-          "size": 258530,
+          "size": 284609,
           "minOSVersion": "17.4"
         }
       ]
