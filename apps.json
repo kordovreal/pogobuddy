@@ -25,7 +25,7 @@
     },
     {
       "name": "Scan",
-      "bundleIdentifier": "com.stefan.scan",
+      "bundleIdentifier": "local.stefan.scanios",
       "developerName": "Stefan",
       "subtitle": "scan",
       "localizedDescription": "scan.",
