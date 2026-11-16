@@ -22,6 +22,26 @@
           "minOSVersion": "17.4"
         }
       ]
+    },
+    {
+      "name": "Scan",
+      "bundleIdentifier": "com.stefan.scan",
+      "developerName": "Stefan",
+      "subtitle": "scan",
+      "localizedDescription": "scan.",
+      "iconURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/icon.png",
+      "tintColor": "FFCD75",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-09",
+          "localizedDescription": "Scan.",
+          "downloadURL": "https://raw.githubusercontent.com/kordovreal/pogobuddy/main/Scan.ipa",
+          "size": 120944,
+          "minOSVersion": "17.4"
+        }
+      ]
     }
   ],
   "news": []
